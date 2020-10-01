@@ -3,6 +3,7 @@
 This is example of MVP pattern in Android using kotlin. You can see  details from below.
 
 https://medium.com/@dlgksah/mvp-kotlin-example-2de93add4c82
+
 https://github.com/hanmolee/MVP_Example
 
 ## Dev note
@@ -14,8 +15,11 @@ https://bughunting.kr/dev/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9
 ## What is MVP Pattern ??
 
 Model : is to store data
+
 View : to render layout with model data
+
 Presenter : communiate with model and view and process changes.
+
 
 ### Model
 
